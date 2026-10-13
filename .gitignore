@@ -1,0 +1,6 @@
+# Obsidian volatile files
+.obsidian/workspace.json
+.obsidian/workspace.mobile.json
+# Obsidian vault config accidentally opened inside a pattern folder
+*/.obsidian/
+.trash/
